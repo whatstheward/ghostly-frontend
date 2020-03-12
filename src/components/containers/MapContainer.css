@@ -1,0 +1,10 @@
+#map-id {
+    height: 25vw;;
+    width: 25vw;
+}
+
+#map-id:hover{
+    width: 30vw;
+    height: 30vw;
+    transition: ease 1s;
+}
